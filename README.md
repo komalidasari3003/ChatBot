@@ -1,4 +1,4 @@
-# chat-with-gpt4-streamlit
+# ChatBot
 Chat with your GPT-4 model using OpenAI API via Streamlit web app using latest OAI and streamlit packages
 
 # Main reference for Streamlit related code:
